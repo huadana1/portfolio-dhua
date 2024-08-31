@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-name: "Dana Hua!!"
+  name: "Dana Hua!!"
   text: "TODO: Subtitle"
   tagline: "TODO: Tagline"
   actions:
