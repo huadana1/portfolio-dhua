@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Dana Hua!!"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Dana Hua"
+  text: "a TA extraordinaire's portfolio"
+  tagline: "a 6.1040 production..."
   actions:
     - theme: brand
       text: Template Repository
@@ -20,6 +20,8 @@ features:
     link: /blogs
   - title: Assignments
     details: All of your assignments will be posted on your portfolio.
+    link: /assignments
   - title: About Me
     details: You'll implement a small bio about yourself on here!
+    link: /about
 ---
